@@ -1,0 +1,104 @@
+.nav_k {
+    background-color: rgba(240, 248, 255, 0);
+    box-shadow: none;
+    width: 250px;
+}
+
+.box_dashboard {
+    margin-left: 275px;
+}
+
+.sidenav {
+    width: 250px;
+}
+
+.f_4_cards {
+    display: flex;
+
+}
+.head_in_sidebar {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 46px;
+    padding-left: 37px;
+    border-bottom: 1px solid rgba(175, 175, 175, 0.473);
+    font-size: 23px;
+    font-weight: 500;
+}
+
+
+.else_in_sidebar i {
+    padding-left: 0px;
+}
+
+.else_in_sidebar li {
+    margin: 20px;
+}
+
+.li_in_sidebar a.a_in_sidebar {
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: 330;
+}
+
+.li_in_sidebar a.a_in_sidebar .material-icons {
+    margin-right: 10px;
+    font-size: 22px;
+}
+
+.title_dashboard {
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.f_4_cards .card_f {
+    background-color: white;
+    padding: 23px;
+}
+
+.box_with_cards {
+    padding-top: 80px;
+}
+
+.image_in_4c i {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 80px;
+    bottom: 40px;
+    font-size: 50px;
+}
+
+.hcf {
+    border-bottom: 1px solid rgba(175, 175, 175, 0.461);
+}
+
+.text_in_card_4c > div{
+    text-align: right;
+}
+
+.bt4c {
+    font-size: 30px;
+    font-weight: 250;
+}
+
+.fcf {
+    display: flex;
+    align-items: center;
+    color: gray;
+    font-size: 15px;
+}
+
+.fcf i {
+    padding-right: 5px;
+    font-size: 20px;
+    color: rgb(64, 64, 64);
+}
+
+.f_4_cards .for_pad_4c {
+    padding-left: 0;
+    padding-right: 25px;
+}
